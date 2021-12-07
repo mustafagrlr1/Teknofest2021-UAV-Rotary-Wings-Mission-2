@@ -4,3 +4,5 @@ Mission:
     Vehicle has to complete parkour and get water from pool at given approximate location.
     Then vehicle has to find desired red circle pool in the area and will proceed to unload the water on it.
     Vehicle has to operate autonomously without any human intervention.
+
+https://drive.google.com/file/d/1GkH300vrRm90EnywqdEWoqHbm9xVfOEb/view?usp=sharing
